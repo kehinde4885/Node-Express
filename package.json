@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "2.0.0",
+  "description": "",
+  "main": "1tut.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.0"
+  }
+}
